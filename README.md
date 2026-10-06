@@ -1,7 +1,6 @@
 # Hi, I'm Kevin Ma-SAI
 
-Freshman at the School of Artificial Intelligence, Shanghai Jiao Tong University · CS50 student · turning ideas into small playable web pages · 把想法做成能玩的小网页
-
+Freshman at the School of Artificial Intelligence, Shanghai Jiao Tong University 
 ## Currently learning
 
 ![skills](https://skillicons.dev/icons?i=c,py,html,css,js,git)
