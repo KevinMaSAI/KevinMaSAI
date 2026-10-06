@@ -1,6 +1,6 @@
 # Hi, I'm incipient2027
 
-CS50 student · turning ideas into small playable web pages · 把想法做成能玩的小网页
+Freshman at the School of Artificial Intelligence, Shanghai Jiao Tong University · CS50 student · turning ideas into small playable web pages · 把想法做成能玩的小网页
 
 ## Currently learning
 
